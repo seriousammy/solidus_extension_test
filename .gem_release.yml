@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_extension_test/version.rb'
+  message: Bump SolidusExtensionTest to %{version}
+  tag: true
