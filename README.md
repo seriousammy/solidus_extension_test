@@ -1,5 +1,10 @@
 # Solidus Extension Test
 
+This is just a test extension. The goal of this extension was to try and get
+started with a barebones app and show a change on the frontend.
+
+# Generated README Template Below
+
 [![CircleCI](https://circleci.com/gh/seriousammy/solidus_extension_test.svg?style=shield)](https://circleci.com/gh/seriousammy/solidus_extension_test)
 [![codecov](https://codecov.io/gh/seriousammy/solidus_extension_test/branch/master/graph/badge.svg)](https://codecov.io/gh/seriousammy/solidus_extension_test)
 
@@ -21,7 +26,8 @@ bin/rails generate solidus_extension_test:install
 
 ## Usage
 
-<!-- Explain how to use your extension once it's been installed. -->
+This is just a test extension. The goal of this extension was to try and get
+started with a barebones app and show a change on the frontend.
 
 ## Development
 
