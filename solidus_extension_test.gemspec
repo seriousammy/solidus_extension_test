@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ['Sam Lee']
   spec.email = 'sam@super.gd'
 
-  spec.summary = 'TODO: Write a short summary, because RubyGems requires one.'
-  spec.description = 'TODO: Write a longer description or delete this line.'
+  spec.summary = 'This is a test/trial extension. Wish me luck.'
   spec.homepage = 'https://github.com/seriousammy/solidus_extension_test#readme'
   spec.license = 'BSD-3-Clause'
 
